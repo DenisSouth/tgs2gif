@@ -1,5 +1,5 @@
 # tgs2gif
-
+# tgs telegram sticker to gif
 
     pip install lottie
     pip install cairosvg
